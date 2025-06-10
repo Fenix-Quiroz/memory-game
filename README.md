@@ -1,6 +1,6 @@
 # Juego de memoria
 
-Este juego lo realize como tarea de un Bootcamp.
+Esta tarea me fue asignada por el Bootcamp de JS + TS de [LEMONCODE](https://lemoncode.net/bootcamp-javascript#bootcamp-javascript/inicio).
 
 ## 🚀 Cómo iniciar el proyecto
 
